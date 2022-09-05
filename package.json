@@ -1,0 +1,11 @@
+{
+  "name": "metagross",
+  "version": "1.0.0",
+  "description": "A promise-based wrapper for PokeAPI/api-data.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "git clone https://github.com/PokeAPI/api-data.git pokeapi"
+  },
+  "author": "justinleewells",
+  "license": "ISC"
+}
